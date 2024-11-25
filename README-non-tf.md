@@ -50,13 +50,34 @@
 
 
 ### Subnetting (If you use CPT)
-
-  ![image](https://github.com/user-attachments/assets/57cc4fc6-b650-4845-85fa-e80cef5e3247)
-  ![image](https://github.com/user-attachments/assets/278b5e8b-ce89-4a45-8bbb-281cbb13b5f8)
-  ![image](https://github.com/user-attachments/assets/244a7fd1-0f6a-4f19-9c30-313275d7f371)
-  ![image](https://github.com/user-attachments/assets/db6df492-dd96-4faf-8fac-3e48167ba5a8)
-  ![image](https://github.com/user-attachments/assets/219ae15f-d384-4b36-9216-866902c9d653)
-  ![image](https://github.com/user-attachments/assets/4761b084-90e7-465d-a197-c61ec9c300e4)
+  ![image](https://github.com/user-attachments/assets/1f1ff362-2cce-4ead-838b-e6e90c7bf776)
+  ![image](https://github.com/user-attachments/assets/45556fac-1337-482b-a9f6-65eb9f6ef4dc)
+  ![image](https://github.com/user-attachments/assets/ff4c91d6-3616-45a7-9b94-b44437c476d9)
+  ![image](https://github.com/user-attachments/assets/962d5746-e019-4b4f-b8c6-e330aa77c431)
+  ![image](https://github.com/user-attachments/assets/0d161950-ed40-40d8-b698-8edd35b1ec8a)
+  ![image](https://github.com/user-attachments/assets/4c3c8861-9321-4986-a9df-2858c442bcaf)
+  ![image](https://github.com/user-attachments/assets/9c748dfd-f501-4352-87b2-38a4c2be7e30)
+  ![image](https://github.com/user-attachments/assets/b8e6bd19-55ee-4427-9ecb-93384334e173)
+  ![image](https://github.com/user-attachments/assets/ffed8ed8-7577-46a2-8971-b2cf069c4f79)
+  ![image](https://github.com/user-attachments/assets/85e2896b-336c-4207-b6a0-9fdc5518d511)
+  ![image](https://github.com/user-attachments/assets/469a6d7a-5159-4d56-a003-912a59afa8ba)
+  ![image](https://github.com/user-attachments/assets/fbe9f08d-198e-43b0-a277-0a8a966f43d6)
+  ![image](https://github.com/user-attachments/assets/a49abaef-310f-4c5e-a4ae-a88a33cf8847)
+  ![image](https://github.com/user-attachments/assets/3d3d184e-7b8c-41f0-aaec-5d1fa4258a9d)
+  ![image](https://github.com/user-attachments/assets/dff7b403-6c41-4902-8286-1c45d00ddcff)
+  ![image](https://github.com/user-attachments/assets/6d58cda3-65cc-4041-b40d-329e904d496f)
+  ![image](https://github.com/user-attachments/assets/a07363f1-dc57-4611-83d2-1557062b1b21)
+  ![image](https://github.com/user-attachments/assets/ca5e6666-ae21-4c8b-9467-8e9ac779a14f)
+  ![image](https://github.com/user-attachments/assets/406891cb-b1ee-44bd-9300-24bc0b1af5c4)
+  ![image](https://github.com/user-attachments/assets/6ee8ce3b-8ac4-4066-8905-e81c975425ac)
+  ![image](https://github.com/user-attachments/assets/826c921d-1f97-47ea-bed7-d018f47bfa68)
+  ![image](https://github.com/user-attachments/assets/a6905890-ac75-443f-9098-c486148c0a25)
+  ![image](https://github.com/user-attachments/assets/cd7dd484-0755-42b8-95e7-59b73684a277)
+  ![image](https://github.com/user-attachments/assets/fbd95a83-97d3-480d-8c36-0a7ba3ced5eb)
+  ![image](https://github.com/user-attachments/assets/c881f503-e948-4dd3-9f6f-7236e0672736)
+  ![image](https://github.com/user-attachments/assets/dd1b167a-3d23-4f80-aae2-197901bd7880)
+  ![image](https://github.com/user-attachments/assets/e24dca76-3c6e-49bf-bfcb-5194800dac2b)
+  ![image](https://github.com/user-attachments/assets/4871d943-514a-409e-a14b-dacd5c5d92b0)
 
 
 ### Subnetting (If you use GNS3)
@@ -237,97 +258,79 @@ Configuration to every router for routing.
 
 - Kamachi:
 
-  ![image](https://github.com/user-attachments/assets/b6f85a78-c7a1-4626-906e-68bc0e85966e)
-  ![image](https://github.com/user-attachments/assets/fee80639-bcb7-4b25-b13e-e5d4dafb785b)
-
+  ![image](https://github.com/user-attachments/assets/12e18003-d886-409c-b943-ce4ae985084a)
 
 - Fiamma:
 
-  ![image](https://github.com/user-attachments/assets/69fd2310-307a-4e57-bcac-891dd544f2c0)
-
+  ![image](https://github.com/user-attachments/assets/c92ae9d9-02c6-4436-8e4d-5994604c0e5f)
 
 - GoldenDawn:
 
-  ![image](https://github.com/user-attachments/assets/7352617d-4a4a-42bb-9e20-a2b26cdcb56f)
-
+  ![image](https://github.com/user-attachments/assets/d7b02120-4a00-4bce-82ec-c31318a7adb1)
 
 - Necessarius:
   
-  ![image](https://github.com/user-attachments/assets/5f22e5b5-5089-43e7-b8e0-d7fa4b4f0341)
+  ![image](https://github.com/user-attachments/assets/f19d95d1-5c43-4094-a193-2ff922027c85)
 
 - Alice:
 
-  ![image](https://github.com/user-attachments/assets/440bb3d7-e63d-4c6e-b5a0-74a5ecc80893)
-
+  ![image](https://github.com/user-attachments/assets/5c4d1a56-4583-45a1-b348-accb94b25d05)
 
 - Kihara:
 
-   ![image](https://github.com/user-attachments/assets/5a3b3381-3076-4ccf-8a82-79ece5dc5855)
-
+  ![image](https://github.com/user-attachments/assets/7ad03550-be18-4f89-bc96-7b0c888a15ff)
 
 - Vento:
 
-  ![image](https://github.com/user-attachments/assets/8f32c43c-18bc-42ec-970d-49c0ebfd535c)
-
+  ![image](https://github.com/user-attachments/assets/b0f9ee4b-32c1-4c29-b6f1-359ee6c2e0c4)
 
 - Coronzon:
 
-  ![image](https://github.com/user-attachments/assets/24911f1d-00ba-4fbc-9354-c5ea789ad192)
+  ![image](https://github.com/user-attachments/assets/d7317045-db7c-476c-9b45-89bef03ceb4a)
 
 - Index:
 
-  ![image](https://github.com/user-attachments/assets/c4c886fe-ac3a-4e4c-8b74-9b7859b60d88)
-
+  ![image](https://github.com/user-attachments/assets/3432af46-477b-4206-b928-c93d44f4f537)
 
 - Gremlin:
-
-![image](https://github.com/user-attachments/assets/adb22c11-64ae-4b8b-a249-41186e5f4154)
+  
+  ![image](https://github.com/user-attachments/assets/8a0022e5-3156-4a6f-a979-4f6e89c34b4f)
 
 - LastOrder:
 
-  ![image](https://github.com/user-attachments/assets/7b108579-6543-4d8a-8acd-efd2b909f23b)
-
+  ![image](https://github.com/user-attachments/assets/6bdb404a-0b03-4025-8d21-27b56deef822)
 
 - Accel:
 
-  ![image](https://github.com/user-attachments/assets/cc1a7a9d-019d-4da7-a14b-f40d05933cb8)
-
+  ![image](https://github.com/user-attachments/assets/ca7d0132-afcf-4050-9618-5df0e0b74cbc)
 
 - Railgun:
 
-  ![image](https://github.com/user-attachments/assets/1668d514-9477-48a7-8766-43fe30d2ac33)
+  ![image](https://github.com/user-attachments/assets/c0121f48-233c-4ef8-88c0-2fc2aa1c8a3e)
 
 
 ### Testing
 
-- Client - client
+- Accel >> LastOrder
 
-  ![image](https://github.com/user-attachments/assets/098abaa2-cd24-4564-a6ca-92d1d687acba)
+  ![image](https://github.com/user-attachments/assets/ba60e3c3-4329-465b-85b2-94707fd4f4bf)
 
-
-- Client - Server
+- Fiamma >> NEcessarius
 
   ![image](https://github.com/user-attachments/assets/21c0944f-61fe-4451-81eb-0598b475c896)
 
 
-- Client - Router
+- Aleister >> Coronzon
 
-  ![image](https://github.com/user-attachments/assets/bc7104f1-7fd2-4e6e-b313-919ceb99126c)
+  ![image](https://github.com/user-attachments/assets/e53da911-2d01-4b46-a0a0-1d2c99f1659b)
 
-- Server - Server
+- MentalOut >> Noukan
 
-  ![image](https://github.com/user-attachments/assets/ca87975b-666f-4630-96a4-46d3ebd95e57)
+  ![image](https://github.com/user-attachments/assets/00ace3fa-1453-418c-b0a1-4585afd136f0)
 
+- Fuze >> Aiwass
 
-- Server - Router
-
-  ![image](https://github.com/user-attachments/assets/cef4a83e-e9b9-4f2a-850f-d2d920ea5f69)
-
-
-- Router - Router
-
- ![image](https://github.com/user-attachments/assets/37d665e6-7728-4f42-b998-951a538751c1)
-
+  ![image](https://github.com/user-attachments/assets/86a3b4b0-8a2a-4a1a-b989-74fcd64e101e)
 
 <br>
   
