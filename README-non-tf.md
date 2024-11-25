@@ -1,50 +1,52 @@
 ## CIDR
 
+### Topologi
+
+  ![image](https://github.com/user-attachments/assets/945a6231-fc07-45a8-9274-4b089b6cd194)
+
 ### Tree
 
 - Tree image
 
+  ![image](https://github.com/user-attachments/assets/1082520c-b95e-41fd-b982-70547f9803dc)
 
 - IP distribution table
 
-  ![image](https://github.com/user-attachments/assets/609bf6d7-7311-4a0f-aefd-1659f5a452fe)
-  ![image](https://github.com/user-attachments/assets/796d84ad-8e5a-429b-a72d-69478a540bbb)
-
+  ![image](https://github.com/user-attachments/assets/b321583e-b08d-48ce-9f47-db0f74ba2a59)
 
 ### Subnet Merging Iteration
 
 - Iteration 1
-
-  ![image](https://github.com/user-attachments/assets/0bb953c3-bf0c-46c3-bc03-a12769ee4ec3)
-
+  
+  ![image](https://github.com/user-attachments/assets/46bce9a2-5e98-4cbc-9240-12389f6fc069)
 
 - Iteration 2
 
- ![image](https://github.com/user-attachments/assets/090d35e3-9911-46a7-bf89-3d4b3dc3a5c9)
+  ![image](https://github.com/user-attachments/assets/4f32c0bb-3888-4ab5-a9a8-bd77bdf6adc1)
 
 - Iteration 3
 
-  ![image](https://github.com/user-attachments/assets/9c61c897-b37d-4c70-befc-ef506e9f68f6)
+  ![image](https://github.com/user-attachments/assets/5b70cff2-4e84-4c14-8632-7fe67ff91b60)
 
 - Iteration 4
 
-  ![image](https://github.com/user-attachments/assets/7677e702-c271-446f-a9f9-d40458d21557)
+  ![image](https://github.com/user-attachments/assets/8e0b005c-8e36-4147-933f-b7c2b491b4c8)
 
 - Iteration 5
 
-  ![image](https://github.com/user-attachments/assets/440f10f0-66ec-4fc7-89f9-9827f6b9c0ae)
+  ![image](https://github.com/user-attachments/assets/c2969854-a784-4fa6-baf8-4163b8306242)
 
 - Iteration 6
 
-  ![image](https://github.com/user-attachments/assets/ccf82cf7-f552-4e01-a562-d65c87fcce8b)
+  ![image](https://github.com/user-attachments/assets/ec6a358c-a2ab-4a56-a83f-152c19c05ce0)
 
 - Iteration 7
   
-  ![image](https://github.com/user-attachments/assets/a26ab306-0cc2-487d-a54f-9d82731e8121)
+  ![image](https://github.com/user-attachments/assets/346460a3-952d-477c-ad39-79cbc4394cd6)
 
 - Iteration 8
-
-  ![image](https://github.com/user-attachments/assets/822916a5-fb60-4f4c-b804-5f76cf3af30b)
+  
+  ![image](https://github.com/user-attachments/assets/a07de4f8-cdd9-44cd-b679-fa22c3ca61a9)
 
 
 ### Subnetting (If you use CPT)
